@@ -1,0 +1,135 @@
+body{
+    margin-top: 0;
+    text-align: center;
+    font-size: 200%;
+    
+}
+h1{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.6rem;
+    color: #ff8080;
+}
+h2{
+    font-family: 'Rubik', sans-serif;
+    color: #ff8080;
+    font-size: 2.5rem;
+    
+    
+}
+
+header{
+    
+    
+    
+   
+}
+.box-1{
+    margin: 0% auto;
+    padding-top: 100px;
+    background-color:    #ecd8c6;
+    background-attachment: fixed;
+   
+    
+}
+
+.pro{
+    text-decoration: underline;
+}
+.top_ballon{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.bottom_ballon{
+    position: absolute;
+    left: 250px;
+}
+.basket{
+    background-attachment: fixed;
+}
+
+.middle-container{
+    padding-top: 20px;
+    margin: 0% auto;
+    background-color: aliceblue;
+    
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(87, 13, 13, 0.393);
+    overflow: hidden;
+}
+
+.sneha{
+    border-radius: 40%;
+}
+h3{
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    color: rgb(48, 173, 150);
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.intro{
+    margin: 50px 300px;
+}
+.skill{
+    margin: 50px 200px;
+}
+#pic{
+    display: float;
+    height: 200px;
+    width: 200px;
+}
+.pic1{
+    float: left;
+}
+.pic2{
+    float: right;
+}
+.pic3{
+    float: left;
+}
+.pic4{
+    float: right;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(23, 144, 200);
+    border-width: 8px;
+    width: 8%;
+}
+.bottam-container{
+    padding: 20px;
+    background-image: url('/image/2ndcont.jpg.jpeg');
+}
+.boxes{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+.btn{
+    background: rgb(10, 192, 216);
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+footer{
+    background-color: #ff8080;
+    height: 100px;
+    padding: 20px;
+}
